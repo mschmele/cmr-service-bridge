@@ -1,1 +1,1 @@
-web: lein trampoline run
+web: lein ngap-deploy
